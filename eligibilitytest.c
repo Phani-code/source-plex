@@ -9,5 +9,5 @@ int main()
    if(a>=18)
    printf("you are eligible for playing this game");
    
-   else
+   if(a<18)
    printf("you are not eligible for playing this game");
