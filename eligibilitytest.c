@@ -11,3 +11,5 @@ int main()
    
    if(a<18)
    printf("you are not eligible for playing this game");
+
+   printf("\nthank you for purchasing this video game");
