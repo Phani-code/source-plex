@@ -13,3 +13,5 @@ int main()
    printf("you are not eligible for playing this game");
 
    printf("\nthank you for purchasing this video game");
+}
+   
